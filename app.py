@@ -7,7 +7,7 @@ app = Flask(__name__)
 @app.route('/')
 def home():
     # Render the 'index.html' template
-    return "This is my webapp"
+    return "Appalammaaa... I am sooo proud of you..."
 
 # Run the application if the script is executed
 if __name__ == '__main__':
